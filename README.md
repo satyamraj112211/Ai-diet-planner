@@ -1,5 +1,25 @@
-Maven Web Application (HTML / CSS / JavaScript)
-This project is a Maven-based Java Web Application that wraps a frontend project built using HTML, CSS, and JavaScript. Maven is used for build automation, dependency management, and deployment, while the frontend files are served via a Java web container (Tomcat).
+# Maven Web Application (HTML / CSS / JavaScript)
+
+This project is a **Maven-based Java Web Application** that wraps a frontend project built using **HTML, CSS, and JavaScript**.  
+Apache Maven is used for **build automation, dependency management, and deployment**, while the frontend files are served via a **Java web container (Apache Tomcat)**.
+
+---
+
+## 📌 Project Overview
+
+- **Frontend:** HTML, CSS, JavaScript  
+- **Build Tool:** Apache Maven  
+- **Backend Type:** Java Web App (Servlet-based)  
+- **Packaging:** WAR  
+- **Server:** Apache Tomcat  
+
+This structure allows you to deploy your frontend project as a **standard Java web application**.
+
+---
+
+## 📂 Project Structure
+
+
 
 📌 Project Overview
 Frontend: HTML, CSS, JavaScript
