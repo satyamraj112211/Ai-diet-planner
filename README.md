@@ -47,6 +47,23 @@ health-diet-planner/
 * *Package Format* - WAR (Web Application Archive)
 
 ---
+## 🎯 Project Screenshot
+<img width="1643" height="819" alt="Screenshot 2026-01-03 133054" src="https://github.com/user-attachments/assets/86e52fff-8dd5-4572-b8df-7b487616fd44" />
+<img width="1280" height="672" alt="Screenshot 2026-01-03 133101" src="https://github.com/user-attachments/assets/e5aa3742-e72e-4d87-875d-22279da58c47" />
+<img width="1321" height="791" alt="Screenshot 2026-01-03 133109" src="https://github.com/user-attachments/assets/eb0debf8-f6a7-4dc4-8ec0-6209adf80c5d" />
+<img width="1277" height="668" alt="Screenshot 2026-01-03 133117" src="https://github.com/user-attachments/assets/5a1e5610-b689-4218-9560-3033b99530ea" />
+<img width="1292" height="687" alt="Screenshot 2026-01-03 133127" src="https://github.com/user-attachments/assets/36f9ebfc-1ed2-439e-9ef5-9587804621ae" />
+<img width="1199" height="666" alt="Screenshot 2026-01-03 133135" src="https://github.com/user-attachments/assets/b0c09025-910d-402b-881a-9984b77a14a7" />
+<img width="1226" height="489" alt="Screenshot 2026-01-03 133144" src="https://github.com/user-attachments/assets/2e51f53b-2860-4f37-8144-7ea76d95f622" />
+<img width="1071" height="327" alt="Screenshot 2026-01-03 133150" src="https://github.com/user-attachments/assets/9dcf7456-a42b-47cc-bb03-67478ad92e06" />
+
+
+
+
+
+
+
+
 
 ## 🎯 Project Objectives
 
