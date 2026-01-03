@@ -56,12 +56,10 @@ health-diet-planner/
 <img width="1199" height="666" alt="Screenshot 2026-01-03 133135" src="https://github.com/user-attachments/assets/b0c09025-910d-402b-881a-9984b77a14a7" />
 <img width="1226" height="489" alt="Screenshot 2026-01-03 133144" src="https://github.com/user-attachments/assets/2e51f53b-2860-4f37-8144-7ea76d95f622" />
 <img width="1071" height="327" alt="Screenshot 2026-01-03 133150" src="https://github.com/user-attachments/assets/9dcf7456-a42b-47cc-bb03-67478ad92e06" />
-
-
-
-
-
-
+<img width="1293" height="587" alt="Screenshot 2026-01-03 135258" src="https://github.com/user-attachments/assets/0c930f7d-7b04-4359-a632-c1a0f5453f82" />
+<img width="1288" height="658" alt="Screenshot 2026-01-03 135304" src="https://github.com/user-attachments/assets/fa99d573-b912-4a84-845c-0b840eda426d" />
+<img width="1055" height="614" alt="Screenshot 2026-01-03 135311" src="https://github.com/user-attachments/assets/c401cec7-889c-470c-9bd1-337f53b8868d" />
+<img width="1289" height="520" alt="Screenshot 2026-01-03 135318" src="https://github.com/user-attachments/assets/5ab7ae6b-b64d-46c5-9fad-93a2554015c1" />
 
 
 
